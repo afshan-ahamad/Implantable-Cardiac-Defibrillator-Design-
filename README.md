@@ -12,8 +12,8 @@ death. Around 18 million people died of cardiac causes in 2016, accounting for o
 worldwide. Sudden cardiac death (SCD), most often induced by ventricular arrhythmias, is one of the main 
 reasons for CVD-related deaths. Coronary artery disease (CAD) remains the leading cause of SCD with up 
 to 80% of all patients suffering from SCD. etc...
+
 ![ICD](https://github.com/afshan-ahamad/Implantable-Cardiac-Defibrillator-Design-/assets/104277153/8cf72b40-b126-4e08-a69a-9bfb11480217)
 ![Control System](https://github.com/afshan-ahamad/Implantable-Cardiac-Defibrillator-Design-/assets/104277153/68dddc6e-6495-40d4-a899-652ca7bc738e)
-
 ![Idea](https://github.com/afshan-ahamad/Implantable-Cardiac-Defibrillator-Design-/assets/104277153/1d7369de-b081-40ef-9c63-881196ae9414)
 ![Updated CS](https://github.com/afshan-ahamad/Implantable-Cardiac-Defibrillator-Design-/assets/104277153/2c9c41db-dca3-453b-82ca-047bf7c8f090)
