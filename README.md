@@ -1,4 +1,4 @@
-# Implantable-Cardiac-Defibrillator-Design
+# Implantable-Cardiac-Defibrillator-Design-with-Troponin-level-Measurement
 
 The Implantable Cardiac-Defibrillators (ICDs) traces back to the late 20th century, marked by pioneering 
 efforts in cardiac electrophysiology. The concept of an implantable device capable of delivering life-saving 
